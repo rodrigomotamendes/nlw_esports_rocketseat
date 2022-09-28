@@ -5,7 +5,7 @@
 <hr size="2" width="100%" align="center" noshade>
 
   <p align="center">
-   <img src="mobile/assets/nlw_esports_rocketseat.gif" height="700">
+   <img src="mobile/assets/nlw_esports_rocketseat.gif" width="800">
   </p>
 
 <h2>🚀 Descrição</h2>
